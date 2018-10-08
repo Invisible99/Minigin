@@ -1,0 +1,11 @@
+#pragma once
+#include "TextComponent.h"
+#include "SpriteComponent.h"
+#include "PillComponent.h"
+#include "PacmanComponent.h"
+#include "GhostComponent.h"
+#include "GhostManagerComponent.h"
+#include "InputComponent.h"
+#include "PowerupComponent.h"
+#include "LiveManagerComponent.h"
+#include "EndGameComponent.h"
